@@ -1,0 +1,2 @@
+git config --global http.sslVerify false
+  (Tell git to not perform the validation of the certificate using the global option)
