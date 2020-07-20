@@ -2,7 +2,7 @@
 
     /*  
         commands###
-
+        
         
         git config --global user.name = 'StanciuDragosIoan' (config user)
 
@@ -108,6 +108,8 @@
                 allows to modify commits/squash/remove them/etc.. before rebasing
 
             git reflog (shows logs)
+            
+            git config --global http.sslVerify false (do not verify ssl certificate)
         */
 
 
