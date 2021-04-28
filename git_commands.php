@@ -120,6 +120,8 @@
         -commit each time a new feature is added to the app
 
         -git commit (without -m) allows us to write longer commits
+        
+        git whatchanged -1 --format=oneline | wc -l  (check how many files changes in last commit)
 
 
     */
